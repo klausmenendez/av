@@ -5,4 +5,5 @@ num3=float(input())
 num4=float(input())
 num5=float(input())
 sum=num1+num2+num3+num4+num5
-print("Their average is" , sum/5)
+print("Their average is:" )
+print(sum)
